@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nikson230
+- 👀 I’m interested in game development.
+- 🌱 I’m currently learning TIC-80(Lua), Godot(GDScript)
+- 📫 How to reach me --- email: igrok.nikson.230@gmail.com, instagram: @s_savchuk_live, twitter: @niks_step, telegram: @Nikson_230
