@@ -3,7 +3,7 @@
 
 - I’m currently working on [TTT with E](https://github.com/Nikson230/TTT-with-E)
 
-- 🌱 I’m currently learning **TIC-80(Lua), Godot Engine and C++**
+- 🌱 I’m currently learning **Godot Engine and C++**
 
 - 💬 Ask me about **programming of video-games**
 
