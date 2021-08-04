@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stepan Savchuk</h1>
 <h3 align="center">I am a gamedeveloper.</h3>
 
-- I’m currently working on [TTT with E](https://github.com/Nikson230/TTT-with-E)
+- I’m currently working on some game
 
 - 🌱 I’m currently learning **Godot Engine and C++**
 
